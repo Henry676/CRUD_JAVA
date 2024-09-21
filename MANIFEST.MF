@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: Libros
+Class-Path: mysql-connector-j-8.1.0.jar
+Created-By: 15.0.1 (Oracle Corporation)
+
