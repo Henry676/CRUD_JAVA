@@ -7,6 +7,9 @@ This the phpMyAdmin server where the database is.
 ![Captura de pantalla (34)](https://github.com/user-attachments/assets/d27eef22-50da-439a-8b93-c6d1292ac17e)
 This is a short-video demostration about my app.
 https://github.com/user-attachments/assets/fc05fc5e-96d6-4cce-b870-a3d02b1ee5a2
+
+
+
 And these screenshots are from my database hosted in the phpmyadmin server
 ![Captura de pantalla (35)](https://github.com/user-attachments/assets/17947b7f-ec65-4195-bf38-43434ce0e892)
 ![Captura de pantalla (36)](https://github.com/user-attachments/assets/8740345f-795b-40ca-a393-0d968d086292)
