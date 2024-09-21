@@ -6,6 +6,8 @@ hosted in phpMyAdmin server. Also users will be able to query their records they
 This the phpMyAdmin server where the database is.
 ![Captura de pantalla (34)](https://github.com/user-attachments/assets/d27eef22-50da-439a-8b93-c6d1292ac17e)
 This is a short-video demonstration about my app.
+
+
 https://github.com/user-attachments/assets/fc05fc5e-96d6-4cce-b870-a3d02b1ee5a2
 
 
